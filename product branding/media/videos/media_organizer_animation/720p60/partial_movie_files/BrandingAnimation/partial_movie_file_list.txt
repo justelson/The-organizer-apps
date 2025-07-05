@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/444245425_440213885_223132457.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1839128356_3295866081.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_4008651269_1972563561.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1839128356_641940097.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_3085221082_3625941154.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1839128356_2464440189.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1832806126_2683511352.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1839128356_358949904.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_1599211165_1675960659.mp4'
+file 'file:C:/Users/elson/MY CODING PLAY/product branding/media/videos/media_organizer_animation/720p60/partial_movie_files/BrandingAnimation/1452984330_2039497605_750507893.mp4'

@@ -1,0 +1,37 @@
+**JUST ELSON PRODUCTIVE.labs**\
+**the app name APPLICATION LICENSE AGREEMENT**
+
+**1. Introduction**\
+This License Agreement "============" is a legal agreement between you ("User") and JUST ELSON PRODUCTIVE.labs for the use of the File Organizer Application ("Editors Organize Click"). By installing, accessing, or using the Application, you agree to be bound by the terms of this Agreement.
+
+**2. Purpose of the Application**\
+The File Organizer Application is designed to help users efficiently manage, categorize, and organize their digital files. It provides functionalities such as file sorting, renaming, grouping, searching, and optimizing file storage. The Application aims to enhance user productivity by offering an intuitive and streamlined file management experience.
+
+**3. No Warranty and Limitation of Liability**\
+(a) The Application is provided "as is" without any warranties, express or implied. The Company does not guarantee that the Application will be error-free, uninterrupted, or compatible with all devices or operating systems.
+
+(b) The Company shall not be held responsible for any loss, corruption, modification, or deletion of files resulting from the use of the Application. Users are responsible for creating backups of their files before using the Application.
+
+(c) Under no circumstances shall the Company, its affiliates, developers, or licensors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use or inability to use the Application, even if advised of the possibility of such damages.
+
+**4. User Responsibilities**\
+(a) The User agrees to use the Application only for lawful purposes and in accordance with all applicable laws and regulations.
+
+(b) The User is responsible for ensuring that the Application meets their needs before use and acknowledges that they assume all risks associated with file modifications or deletions performed by the Application.
+
+**5. Intellectual Property**\
+The Application, including all trademarks, copyrights, and proprietary materials, is owned by JUST ELSON PRODUCTIVE.labs. Users are granted a non-exclusive, non-transferable license to use the Application strictly for personal or business file management purposes. Reverse engineering, modification, or distribution of the Application without permission is strictly prohibited.
+
+**6. Termination**\
+The Company reserves the right to terminate this Agreement at any time if the User fails to comply with its terms. Upon termination, the User must cease all use of the Application and remove it from their device(s).
+
+**7. Governing Law**\
+This Agreement shall be governed by and construed in accordance with the laws of The United Republic of Tanzania, without regard to its conflict of law principles.
+
+**8. Contact Information**\
+For any inquiries regarding this Agreement, please contact JUST ELSON PRODUCTIVE.labs at [elsonyt25\@gmail.com].
+
+By using this Application, you acknowledge that you have read, understood, and agreed to the terms of this License Agreement.
+
+**Effective Date:==============**
+
